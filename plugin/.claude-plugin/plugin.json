@@ -1,0 +1,9 @@
+{
+  "name": "chatzip",
+  "version": "0.1.0",
+  "description": "Turn AI data exports (Claude, ChatGPT, Gemini, Grok, DeepSeek) into one zip with a folder per AI and a text file per chat.",
+  "author": { "name": "spencerrios64" },
+  "homepage": "https://spencerrios64.github.io/chatzip/",
+  "repository": "https://github.com/spencerrios64/chatzip",
+  "keywords": ["chat history", "export", "zip", "organize"]
+}
