@@ -1,0 +1,13 @@
+{
+  "name": "chatzip",
+  "owner": {
+    "name": "spencerrios64"
+  },
+  "plugins": [
+    {
+      "name": "chatzip",
+      "source": "./plugin",
+      "description": "Turn AI data exports (Claude, ChatGPT, Gemini, Grok, DeepSeek) into one zip with a folder per AI and a text file per chat."
+    }
+  ]
+}
